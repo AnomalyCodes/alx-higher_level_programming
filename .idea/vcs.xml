@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0x07-python-test_driven_development/alx-higher_level_programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0x09-python-everything_is_object/alx-higher_level_programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0x0A-python-inheritance/alx-higher_level_programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0x0B-python-input_output/alx-higher_level_programming" vcs="Git" />
   </component>
 </project>

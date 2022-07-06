@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96cea8d5-c5e2-42ee-85d3-3d85b60ffed0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-python-more_classes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/0-read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/1-write_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/10-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/100-append_after.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/101-stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/11-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/12-pascal_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/2-append_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/3-to_json_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/4-from_json_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/5-save_to_json_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/6-load_from_json_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/8-class_to_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/9-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +44,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adaoraokwo/PycharmProjects/alx-higher_level_programming/0x0B-python-input_output&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x0A-python-inheritance" />
+      <recent name="$PROJECT_DIR$/0x07-python-test_driven_development" />
+      <recent name="$PROJECT_DIR$/0x09-python-everything_is_object" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x07-python-test_driven_development" />
+    </key>
+  </component>
   <component name="RunManager" selected="Shell Script.0-run">
     <configuration name="0-run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx-higher_level_programming" />
